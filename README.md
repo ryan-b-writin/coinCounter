@@ -1,6 +1,5 @@
-# Coin Counter exercise
 
-### How to use:
+# How to use:
 
 >On page load, a prompt will ask for a decimal number. The application then splits your amount into quarters, nickels, and dimes and prints your totals to the page.
 
